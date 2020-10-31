@@ -14,5 +14,5 @@ public class CalculTest {
 	public void testCalculerDiff() {
 	Assert.assertEquals(30, calcul.calculerDiff(40, 10));
 	}
-
+	
 }

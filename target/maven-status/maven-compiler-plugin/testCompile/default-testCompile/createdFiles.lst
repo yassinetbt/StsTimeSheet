@@ -1,3 +1,4 @@
-tn\esprit\spring\entities\EmployeTest.class
-tn\esprit\spring\TimesheetApplicationTests.class
 tn\esprit\spring\AffichageLog.class
+tn\esprit\spring\CalculTest.class
+tn\esprit\spring\services\EntrepriseServiceImplTest.class
+tn\esprit\spring\TimesheetApplicationTests.class
