@@ -31,7 +31,7 @@ public class EntrepriseServiceImplTest {
 		int deparadd = test.ajouterDepartement(d);
 		Assert.assertEquals(d.getId(), deparadd);
 	}
-	
+	//////////////////////////////////////////////////////////////////////////////////
 	@Test
 	public void testAffecterDepartementAEntreprise(){
 		Entreprise e =new Entreprise("Esprit", "Esprit");
@@ -48,7 +48,8 @@ public class EntrepriseServiceImplTest {
 			//long x=test.entrepriseRepoistory.count();
 	        //test.deleteEntrepriseById(e.getId());
 	        //Assert.assertEquals(x,x-1);
-	    }*/
+	    }*///
+	/////*///
 	
 	
 	
